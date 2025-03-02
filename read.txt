@@ -1,4 +1,4 @@
-Next: Chapter 5.3 (Unions)
+Next: Chapter 6.5 (Addressibles)
 5.3.2 i 5.3.3 -> some complicated if for checking if union contains some specific type
 5.3.6 -> watch video
 
