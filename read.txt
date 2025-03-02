@@ -1,1 +1,12 @@
 Next: Chapter 5.3 (Unions)
+5.3.2 i 5.3.3 -> some complicated if for checking if union contains some specific type
+5.3.6 -> watch video
+
+POINTERS:
+ &broj		-> get address of normal variable
+ num: ^int 	-> declare a pointer of some type
+ num = &broj-> assign address of normal variable to a pointer
+ num^		-> get value of variable to which pointer is pointing to
+				(num^ = num^ + 1)
+				(if num was a struct, then we don't need ^
+				this "num^.x = 2" is the same as "num.x = 2")
