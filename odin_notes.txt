@@ -1,6 +1,0 @@
-BUILDING:
-Strict style: -vet -strict-style
-
-LANGUAGE EASY TO FORGET:
-number: int = --- //don't initialize variable
-Enumerated arrays - very simple, but will take time to sink in intuitively

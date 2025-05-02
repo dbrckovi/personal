@@ -1,0 +1,6 @@
+# theme = "bogster"
+
+[keys.normal]
+F5 = ":sh mkdir -p out && odin run . -out:out/examples"
+F4 = ":sh mkdir -p out && odin build . -out:out/examples -debug; echo Build complete!"
+
